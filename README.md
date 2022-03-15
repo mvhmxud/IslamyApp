@@ -1,6 +1,6 @@
 # Islamy Web App using React <br/>
 <br/>
-#Project Description<br/>
+# Project Description<br/>
 it's a web app application that has a lot of features That matter to every Muslim with a good user experience.<br/>
 <br/>
 . audio Quran with multiple reciters <br/>
@@ -20,7 +20,7 @@ it's a web app application that has a lot of features That matter to every Musli
 . swiper <br/>
 . axios<br/>
 <br/>
-#live preview
+# live preview
 <br/>
 [here](https://islamy-live.web.app/)
 
