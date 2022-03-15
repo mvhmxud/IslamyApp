@@ -3,12 +3,12 @@
 #Project Description
 it's a web app application that has a lot of features That matter to every Muslim with a good user experience.
 
-. audio Quran with multiple reciters
-. Prayer Times based on the users's location 
-. hadith and dua and more 
-. Multi Language app (AR-EN)
-. darkmode
-. Responsive app
+. audio Quran with multiple reciters _
+. Prayer Times based on the users's location _
+. hadith and dua and more _
+. Multi Language app (AR-EN) _
+. darkmode _
+. Responsive app _
 
 # technologies and tools 
 
