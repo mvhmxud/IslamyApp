@@ -22,5 +22,5 @@ it's a web app application that has a lot of features That matter to every Musli
 <br/>
 #live preview
 <br/>
-[Here](https://islamy-live.web.app/)
+[Here]:(https://islamy-live.web.app/)
 
