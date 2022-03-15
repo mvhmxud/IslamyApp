@@ -16,6 +16,7 @@ it's a web app application that has a lot of features That matter to every Musli
 . Redux toolkit <br/>
 . React Router <br/>
 . Tailwind css  <br/>
+. React icons
 . swiper <br/>
 . axios<br/>
 <br/>
