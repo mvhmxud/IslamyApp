@@ -1,4 +1,4 @@
-# Islamy Web App using React <br/>
+# Islamy web app using React <br/>
 <br/>
 <h1>Project Description</h1><br/>
  a web app application that has a lot of features That matter to every Muslim with a good user experience.<br/>
