@@ -15,7 +15,7 @@ function Hadith(props) {
   useEffect(() => {
     disatch(LoadingSliceActions.setIsLoadingToTrue());
     axios
-      .get("https://islamy-live-default-rtdb.firebaseio.com/Ramadan.json")
+      .get("#")
       .then((res) => {
         for (const key in res.data) {
           {
