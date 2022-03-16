@@ -1,7 +1,7 @@
 # Islamy web app using React <br/>
 <br/>
 <h1>Project Description</h1><br/>
- a web app application that has a lot of features That matter to every Muslim with a good user experience.<br/>
+ a web application that has a lot of features That matter to every Muslim with a good user experience.<br/>
 <br/>
 . audio Quran with multiple reciters <br/>
 . Prayer Times based on the users's location <br/>
