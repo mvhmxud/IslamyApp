@@ -21,5 +21,5 @@
 . axios<br/>
 <br/>
 <h1>live preview</h1>
-<a href='https://islamy-live.web.app/'>Here</a>
+<a href='https://islamy.live'>Here</a>
 
